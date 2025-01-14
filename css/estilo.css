@@ -1,0 +1,33 @@
+
+#subtitulo_pagina {
+    /* Adicione suas propriedades CSS aqui */
+    font-size: 23px;
+    color: #72523f;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+#titulo_pagina{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#sub_titulo_receita {
+    color: #611313;
+    margin: 10px;
+}
+
+
+#sub_titulo_receita_ingredientes {
+    color: #72523f;
+    margin: 10px;
+}
+#bolo_choco_img{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/bolo_chocolate.jpg);
+    background-size: cover;
+    margin-bottom: 25px;
+    
+}
